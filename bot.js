@@ -8,12 +8,8 @@ const dotenv = require("dotenv");
 dotenv.config({ path: ".env" });
 // qr code
 const qrcode = require("qrcode-terminal");
-// express
-const express = require("express");
-const app = express();
 
 const MONGO_URI = process.env.MONGO_URI;
-const PORT = process.env.PORT;
 
 const start = async () => {
   mongoose.connect(MONGO_URI).then(async () => {
