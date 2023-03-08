@@ -1,0 +1,9 @@
+2023/03/08-15:50:32.261 1bc6 Creating DB /home/acer/ChatGenie/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/03/08-15:50:32.331 1bc6 Reusing MANIFEST /home/acer/ChatGenie/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/08-15:50:32.605 1bc9 Level-0 table #5: started
+2023/03/08-15:50:32.625 1bc9 Level-0 table #5: 9099 bytes OK
+2023/03/08-15:50:32.682 1bc9 Delete type=0 #3
+2023/03/08-15:50:32.682 1bc9 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/08-15:51:14.606 1c68 Level-0 table #7: started
+2023/03/08-15:51:14.737 1c68 Level-0 table #7: 1068208 bytes OK
+2023/03/08-15:51:14.770 1c68 Delete type=0 #4
